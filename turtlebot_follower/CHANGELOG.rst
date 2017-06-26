@@ -2,6 +2,11 @@
 Changelog for package turtlebot_follower
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* change maintainer to Marc for our build farm
+* Contributors: Marc Hanheide
+
 2.3.7 (2016-11-01)
 ------------------
 * fixed bad printf format
