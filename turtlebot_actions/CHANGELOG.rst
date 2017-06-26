@@ -2,8 +2,8 @@
 Changelog for package turtlebot_actions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.3.8 (2017-06-26)
+------------------
 * change maintainer to Marc for our build farm
 * Contributors: Marc Hanheide
 
